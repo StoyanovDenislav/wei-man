@@ -1,0 +1,86 @@
+[
+  {
+    "word": "Nussknacker",
+    "translation": "лешникотрошачка",
+    "gender": "der",
+    "plural": "Nussknacker",
+    "hint": "Eine bemalte Holzfigur, die Nüsse knackt."
+  },
+  {
+    "word": "Weihnachtspyramide",
+    "translation": "Коледна пирамида",
+    "gender": "die",
+    "plural": "Weihnachtspyramiden",
+    "hint": "Ein dekoratives Holzspielzeug mit Kerzen, das sich dreht."
+  },
+  {
+    "word": "Zinnsoldaten",
+    "translation": "оловни войници",
+    "gender": "die",
+    "plural": "-",
+    "hint": "Kleine Spielzeugsoldaten, die aus Metall sind."
+  },
+  {
+    "word": "Holzeisenbahn",
+    "translation": "дървено влакче",
+    "gender": "die",
+    "plural": "Holzeisenbahnen",
+    "hint": "Ein kleiner Zug aus Holz, ideal unter dem Weihnachtsbaum."
+  },
+  {
+    "word": "Engel",
+    "translation": "ангел",
+    "gender": "der",
+    "plural": "Engel",
+    "hint": "Ein Himmelswesen aus Holz als Dekoration oder Spielzeug."
+  },
+  {
+    "word": "Schneekugel",
+    "translation": "снежно топче",
+    "gender": "die",
+    "plural": "Schneekugeln",
+    "hint": "Eine Kugel, die wenn geschüttelt, Schnee im Inneren zeigt."
+  },
+  {
+    "word": "Hampelmann",
+    "translation": "дървена фигура с марионетка",
+    "gender": "der",
+    "plural": "Hampelmänner",
+    "hint": "Eine bewegliche Holzfigur mit Fäden."
+  },
+  {
+    "word": "Kaleidoskop",
+    "translation": "калейдоскоп",
+    "gender": "das",
+    "plural": "Kaleidoskope",
+    "hint": "Ein Röhrchen, durch das man bunte Muster sieht, ideal für Weihnachten."
+  },
+  {
+    "word": "Marionette",
+    "translation": "марионетка",
+    "gender": "die",
+    "plural": "Marionetten",
+    "hint": "Ein bewegliches Spielzeug an Fäden."
+  },
+  {
+    "word": "Adventskalender",
+    "translation": "Адвентен календар",
+    "gender": "der",
+    "plural": "Adventskalender",
+    "hint": "Ein Kalender mit 24 Türen bis Weihnachten."
+  },
+  {
+    "word": "Bauklötze",
+    "translation": "строителни блокчета",
+    "gender": "die",
+    "plural": "-",
+    "hint": "Mit diesen Blöcken kann man weihnachtliche Szenen bauen."
+  },
+  {
+    "word": "Plüschbär",
+    "translation": "плюшено мече",
+    "gender": "der",
+    "plural": "Plüschbären",
+    "hint": "Ein weiches Kuscheltier, oft mit Weihnachtsmütze versehen."
+  }
+]
